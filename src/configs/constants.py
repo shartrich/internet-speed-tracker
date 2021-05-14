@@ -5,7 +5,7 @@ CREATE_TABLE_STATEMENT = '''
         unit VARCHAR(4) NOT NULL,
         download DOUBLE,
         upload DOUBLE,
-        ping DOUBLE,
+        ping DOUBLE
     )
 '''
 

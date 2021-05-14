@@ -27,7 +27,7 @@ cd internet-speed-tracker
 Use pip to install the necessary dependencies
 
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ### Environment Variables
